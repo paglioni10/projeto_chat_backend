@@ -1,0 +1,18 @@
+# Não versionar variáveis sensíveis
+backend/.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.env/
+.venv/
+
+# Logs
+*.log
+
+# Arquivos do editor
+.vscode/
+.idea/
